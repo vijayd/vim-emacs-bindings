@@ -8,6 +8,8 @@ imap <C-e> <End>
 imap <C-d> <Del>
 imap <C-h> <BS>
 imap <C-k> <C-r>=<SID>kill_line()<CR>
+imap <C-v> <PageDown>
+imap <A-v> <PageUp>
 
 " command line mode
 cmap <C-p> <Up>
